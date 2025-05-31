@@ -62,7 +62,7 @@ portfoliohub/
 
 ## 🔗 Links Úteis
 
-- 🌐 [Repositório no GitHub](https://github.com/rhuanpociano/PortifolioHUb/edit/main/README%20(1).md)
+- 🌐 [Repositório no GitHub](https://github.com/rhuanpociano/PortifolioHUb/blob/main/README%20(1).md)
 - 📄 [Documentação (Google Docs)](https://docs.google.com/document/d/1gq2mdwWZ034HOaZAdoWKf7bBMAuo2pVsUsv08Isq5Mo/edit?usp=sharing)
 - 📹 [Apresentação no YouTube](https://youtu.be/ztJ1fn0UMbk)
 
